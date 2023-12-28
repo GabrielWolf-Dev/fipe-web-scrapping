@@ -1,0 +1,19 @@
+{
+  "name": "fipe-web-scrapping",
+  "version": "1.0.0",
+  "description": " Data consumption from the fipe table website",
+  "main": "index.js",
+  "scripts": {
+    "fipe-vehicles": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GabrielWolf-Dev/fipe-web-scrapping.git"
+  },
+  "author": "Garbriel Wolf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielWolf-Dev/fipe-web-scrapping/issues"
+  },
+  "homepage": "https://github.com/GabrielWolf-Dev/fipe-web-scrapping#readme"
+}
